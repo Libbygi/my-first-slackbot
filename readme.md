@@ -1,4 +1,5 @@
-#TRUMPBOT: A slackbot that's just tryin' to make America great again.
+#TRUMPBOT
+#####A slackbot that's just tryin' to make America great again.
 
 ###Features and uses
 
